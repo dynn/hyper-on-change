@@ -1,0 +1,29 @@
+{
+  "name": "hyper-on-change",
+  "version": "1.1.4",
+  "description": "Hyper hoa for emitting state changes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Who needs tests, right?\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dynn/hyper-on-change.git"
+  },
+  "keywords": [
+    "hyperapp",
+    "hoa",
+    "state",
+    "change",
+    "listener"
+  ],
+  "author": "Frank van Vuuren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dynn/hyper-on-change/issues"
+  },
+  "homepage": "https://github.com/dynn/hyper-on-change#readme",
+  "dependencies": {
+    "ramda": "^0.26.1"
+  }
+}
